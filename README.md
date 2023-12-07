@@ -36,3 +36,5 @@ Data Liscense: Creative Commons Attribution 4.0 International (CC BY 4.0)
 Wine Dataset: Aeberhard,Stefan and Forina,M.. (1991). Wine. UCI Machine Learning Repository. https://doi.org/10.24432/C5PC7J.
 
 
+## Zenodo
+Zenodo DOI Badge: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10279859.svg)](https://doi.org/10.5281/zenodo.10279859)
