@@ -1,0 +1,32 @@
+{
+    "creators": [
+        {
+            "orcid": "0009-0002-0628-9303",
+            "name": "Kim, Sam"
+        }
+    ],
+
+    "license": "MIT",
+
+    "title": "Reproduction of: Wine Dataset (IS477)",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.24432/C5PC7J",
+            "relation": "cites",
+            "resource_type": "dataset"
+        }
+    ],
+
+    "keywords": ["Wine", "Analysis", "Reproduction"],
+
+    "communities": [
+        {"identifier": "software-cats"}
+    ],
+
+    "description": "This project is for the IS477 Fall 2023 course and is about doing a detailed analysis of the Wine Recognition Dataset from the UCI Machine Learning Repository. It has data from a chemical analysis of wines from Italy, coming from three different types of grapes. The analysis looked into 13 different chemical parts in each wine type. We're going to dig into this dataset with various analysis methods. There are 178 samples in the dataset, and it covers 13 features like Alcohol, Malic Acid, Ash, and others. We want to see how these chemicals are related and how they can help tell the wine types apart. The project, called is477-fall2023-final-project, has scripts for data processing, analysis, and making graphs. The prepare_data.py script downloads and sets up the dataset. Then, the profile.py script uses ydata-profiling to make a detailed report, giving us a good first look at the dataset. The analysis.py script does stuff like calculating summary statistics and making graphs, similar to what we did in previous assignments. All the results go into the results/ folder.",
+    "access_right": "open",
+    "upload_type": "software"
+
+}
